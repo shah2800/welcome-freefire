@@ -34,8 +34,8 @@
           <input type="password" name="password"
           id="name" placeholder="password"required >
           <br><br>
-     <a href="www.gametv.com"><input type="submit" value="submit"
-      name="submit" id="submit"</a>
+     <input type="submit" value="submit"
+      name="submit" id="submit"
       
       >
       

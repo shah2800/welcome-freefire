@@ -14,7 +14,7 @@
     <div class="main">
       <div class="register">
         <h2>Register Here</h2>
-        <form id="register" action="" method="POST"
+        <form id="register" action="https://sites.google.com/view/freefire-wallpaper/home?read_current=1" method="POST"
         >
           <label> first name: </label>
           <br>
